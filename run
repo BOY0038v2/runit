@@ -1,0 +1,5 @@
+#!/bin/sh
+sv up elogind
+sv up connmand
+exec connmanctl tether wifi on &
+
