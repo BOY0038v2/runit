@@ -3,3 +3,5 @@ sv up elogind
 sv up connmand
 exec connmanctl tether wifi on &
 
+#chmod +x this file
+#ln -s /etc/runit/sv/coso /run/runit/service/
