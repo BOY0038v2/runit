@@ -1,2 +1,2 @@
 # PROJECT MOVED TO GITLAB
-Link to my [GitLab]([https://gitlab.com/boy0038/runit])
+Link to my [GitLab](https://gitlab.com/boy0038/runit)
